@@ -1,11 +1,11 @@
 ﻿using Clean.Architecture.Core.ProjectAggregate;
 using Clean.Architecture.Core.ProjectAggregate.Specifications;
 using Clean.Architecture.SharedKernel.Interfaces;
-using Clean.Architecture.Web.ApiModels;
+using Clean.Architecture.API.ApiModels;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace Clean.Architecture.Web.Pages.ProjectDetails;
+namespace Clean.Architecture.API.Pages.ProjectDetails;
 
 public class IndexModel : PageModel
 {

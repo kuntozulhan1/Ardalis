@@ -2,7 +2,7 @@
 using Clean.Architecture.Infrastructure;
 using Clean.Architecture.Infrastructure.Data;
 using Clean.Architecture.UnitTests;
-using Clean.Architecture.Web;
+using Clean.Architecture.API;
 using MediatR;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc.Testing;

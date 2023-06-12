@@ -4,7 +4,7 @@ using Clean.Architecture.SharedKernel.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace Clean.Architecture.Web.Pages.ProjectDetails;
+namespace Clean.Architecture.API.Pages.ProjectDetails;
 
 public class IncompleteModel : PageModel
 {

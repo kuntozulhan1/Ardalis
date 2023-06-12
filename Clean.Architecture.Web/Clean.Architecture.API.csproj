@@ -30,4 +30,8 @@
     <ProjectReference Include="..\Clean.Architecture.Infrastructure\Clean.Architecture.Infrastructure.csproj" />
   </ItemGroup>
   
+  <ItemGroup>
+    <Folder Include="Endpoints\" />
+  </ItemGroup>
+  
 </Project>

@@ -2,7 +2,7 @@
 using Clean.Architecture.Infrastructure.Data;
 using Microsoft.EntityFrameworkCore;
 
-namespace Clean.Architecture.Web;
+namespace Clean.Architecture.API;
 
 public static class SeedData
 {

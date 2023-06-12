@@ -1,8 +1,8 @@
 ﻿using System.Diagnostics;
-using Clean.Architecture.Web.ViewModels;
+using Clean.Architecture.API.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 
-namespace Clean.Architecture.Web.Controllers;
+namespace Clean.Architecture.API.Controllers;
 
 /// <summary>
 /// A sample MVC controller that uses views.

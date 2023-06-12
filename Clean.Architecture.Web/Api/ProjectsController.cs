@@ -1,10 +1,10 @@
 ﻿using Clean.Architecture.Core.ProjectAggregate;
 using Clean.Architecture.Core.ProjectAggregate.Specifications;
 using Clean.Architecture.SharedKernel.Interfaces;
-using Clean.Architecture.Web.ApiModels;
+using Clean.Architecture.API.ApiModels;
 using Microsoft.AspNetCore.Mvc;
 
-namespace Clean.Architecture.Web.Api;
+namespace Clean.Architecture.API.Api;
 
 /// <summary>
 /// A sample API Controller. Consider using API Endpoints (see Endpoints folder) for a more SOLID approach to building APIs

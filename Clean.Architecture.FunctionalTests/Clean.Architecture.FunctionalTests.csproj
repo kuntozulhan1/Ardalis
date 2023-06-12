@@ -26,7 +26,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Clean.Architecture.UnitTests\Clean.Architecture.UnitTests.csproj" />
-    <ProjectReference Include="..\Clean.Architecture.Web\Clean.Architecture.API.csproj" />
+    <ProjectReference Include="..\Clean.Architecture.API\Clean.Architecture.API.csproj" />
   </ItemGroup>
 
 </Project>

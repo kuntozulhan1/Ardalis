@@ -1,4 +1,4 @@
-﻿using Clean.Architecture.Web;
+﻿using Clean.Architecture.API;
 using Xunit;
 
 namespace Clean.Architecture.FunctionalTests.ControllerViews;
@@ -20,6 +20,6 @@ public class HomeControllerIndex : IClassFixture<CustomWebApplicationFactory<Web
     response.EnsureSuccessStatusCode();
     string stringResponse = await response.Content.ReadAsStringAsync();
 
-    Assert.Contains("Clean.Architecture.Web", stringResponse);
+    Assert.Contains("Clean.Architecture.API", stringResponse);
   }
 }

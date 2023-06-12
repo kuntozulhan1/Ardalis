@@ -4,7 +4,7 @@ using Autofac.Extensions.DependencyInjection;
 using Clean.Architecture.Core;
 using Clean.Architecture.Infrastructure;
 using Clean.Architecture.Infrastructure.Data;
-using Clean.Architecture.Web;
+using Clean.Architecture.API;
 using Microsoft.OpenApi.Models;
 using Serilog;
 

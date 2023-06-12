@@ -1,6 +1,6 @@
 ﻿using Clean.Architecture.Core.ProjectAggregate;
 
-namespace Clean.Architecture.Web.ViewModels;
+namespace Clean.Architecture.API.ViewModels;
 
 public class ToDoItemViewModel
 {

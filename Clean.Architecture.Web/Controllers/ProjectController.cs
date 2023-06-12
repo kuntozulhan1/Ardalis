@@ -1,10 +1,10 @@
 ﻿using Clean.Architecture.Core.ProjectAggregate;
 using Clean.Architecture.Core.ProjectAggregate.Specifications;
 using Clean.Architecture.SharedKernel.Interfaces;
-using Clean.Architecture.Web.ViewModels;
+using Clean.Architecture.API.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 
-namespace Clean.Architecture.Web.Controllers;
+namespace Clean.Architecture.API.Controllers;
 
 [Route("[controller]")]
 public class ProjectController : Controller

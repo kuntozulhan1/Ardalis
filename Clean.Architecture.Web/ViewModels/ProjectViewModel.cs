@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Clean.Architecture.Web.ViewModels;
+namespace Clean.Architecture.API.ViewModels;
 
 public class ProjectViewModel
 {
