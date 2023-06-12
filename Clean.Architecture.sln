@@ -22,7 +22,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clean.Architecture.SharedKe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clean.Architecture.UnitTests", "Clean.Architecture.UnitTests\Clean.Architecture.UnitTests.csproj", "{FD691DA9-E0E8-41D2-9103-A63F613CEE0A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clean.Architecture.Web", "Clean.Architecture.Web\Clean.Architecture.Web.csproj", "{DCF7F5E7-86B1-417E-96C3-67D2E004225D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clean.Architecture.API", "Clean.Architecture.Web\Clean.Architecture.API.csproj", "{DCF7F5E7-86B1-417E-96C3-67D2E004225D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
